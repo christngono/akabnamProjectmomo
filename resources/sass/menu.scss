@@ -1,0 +1,404 @@
+.bodycolor{
+    background-color:#005C99;
+}
+
+.bg-light{
+    background-color: #005C99!important;
+    color:#fff;
+}
+
+nav{
+  margin-left:-12px!important;
+  margin-right:-12px!important;
+}
+
+
+a{
+ color:#fff;
+ color:#F1B609;
+}
+.part2{
+background-color:#005C99;
+color:#ffff;
+}
+.part1{
+background-image: url('/images/ImagesAcceuilSiteAkabjpg.jpg');
+background-size: cover;   
+ 
+}
+.part1a{
+background-image: url('/images/akab123.jpg');
+background-size: cover;   
+
+}
+.part1b{
+background-image: url('/images/akab345.jpg');
+background-size: cover;   
+         
+}
+
+.bigname{
+    border: 3px solid rgb(237, 237, 237);
+    background-color: #fff;
+}
+/* les elements de partie onboarding 2*/
+
+.form-check-p{
+    border-radius:10px;
+    border: 2px solid #fff;
+    padding:10px;
+    height:120px;
+    margin:2px;
+}
+
+.ico{
+    height:50px;
+}
+/*end*/
+
+.ta{
+    font-size:1.3rem;
+    
+}
+
+.mess{
+    font-size:1.1rem;    
+}
+.cond{
+    font-size:0.8rem; 
+}
+h1{
+    font-size:3rem;
+}
+
+
+html, body, .container-fluid, .row{
+    height: 100%;
+}
+/* all button*/
+
+.button{
+    margin-left:2px;
+    padding: 10px 40px;
+    background-color: #fff;
+    color:#005C99;
+    border-radius:30px;
+    font-size:0.9rem;
+    font-weight: bold;
+    -webkit-transition: all .15s ease-in-out;
+  transition: all .15s ease-in-out;
+  cursor: pointer;
+}
+.button a{
+    text-decoration: none;
+}
+.button:hover {
+    box-shadow: 0 0 10px 0 #D6AF0B inset, 0 0 20px 2px #D6AF0B;
+    border: 3px solid #D6AF0B;
+  }
+
+.button1{
+    padding: 10px 40px;
+    color:#fff;
+    border-radius:30px;
+    border: 1px solid #fff;
+    font-size:0.9rem;
+    font-weight: bold;
+    cursor: pointer;
+}
+.button1 a{
+    text-decoration: none; 
+}
+.button1 a:hover{
+    color:#fff;
+}
+
+.button1b{
+    padding: 10px 50px;
+    color:#005C99;
+    border-radius:30px;
+    border: 2px solid #005C99;
+    font-size:0.9rem;
+    font-weight: bold;
+    cursor: pointer;
+}
+.button1b a{
+    text-decoration: none;
+}
+.button1b:hover{
+    color:#043f66;
+}
+
+.buttonb{
+    padding: 12px 50px;
+    background: #005C97;  /* fallback for old browsers */
+    color:#fff;
+    border-radius:30px;
+    font-size:0.9rem;
+    font-weight: bold; 
+    cursor: pointer;
+   
+}
+
+.buttonb a{
+    text-decoration: none;
+}
+.buttonb a:hover{
+    color:#D6AF0B; 
+}
+.buttonb:hover{
+    background-color:#043f66;
+}
+.button a:hover{
+    color:#D6AF0B;
+}
+
+.title h2{
+   font-size:2.3rem;
+   font-weight: 700px;
+   color: rgb(5, 71, 82);
+   text-align:center;
+}
+.title p{
+    font-size:1.1rem;
+   font-weight: 500px;
+   color: rgb(5, 71, 82);
+   text-align:center; 
+}
+
+
+/*lemenu de pogression*/
+.progression {
+   
+
+}
+
+.bot{
+    
+    height:30px;
+    width:30px;
+    display:flex;
+    justify-content:center;
+    justify-items: center;
+    background-color: #D6AF0B;
+    color:#fff;
+    border-radius:50%;
+    font-weight:bold;
+
+}
+.bot1{
+    
+    height:30px;
+    width:30px;
+    display:flex;
+    justify-content:center;
+    justify-items: center;
+    background-color: #ccc;
+    color:#000;
+    border-radius:50%;
+    font-weight:bold;
+
+}
+
+ .shart{
+    background-color: #fff;
+    border-radius:10px;
+    padding:15 30px;
+ }
+ .akablink:hover{
+    transform: scale(1,1);
+    cursor: pointer;
+
+ }
+
+.point{
+    font-size: 0.8rem;
+    color: rgb(5, 71, 82);
+    font-size: 18px;
+    font-weight: 600;
+   
+    
+}
+input, textarea{
+    border:3px solid rgb(237, 237, 237)!important;
+}
+
+.progression{
+   
+   border-bottom:3px solid rgb(237, 237,237);
+}
+.ptog
+
+/* footer*/
+footer{
+    border-top:3px solid rgb(237, 237,237);
+
+
+}
+.nav-link {
+    color:#222!important;
+}
+/* disgne input*/
+
+.forma{
+    box-shadow: rgb(0 0 0 / 16%) 0px 1pt 4pt, rgb(0 0 0 / 8%) 0px 2pt 8pt;
+    border-radius:16px;
+    padding:20px;
+}
+.ft{
+    color: rgb(5, 71, 82);
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 20px;
+    padding-top:5px;
+}
+.akabmessag{
+    font-size:0.8rem;
+    font-weight:400px;
+}
+/*input file */
+.identityb{
+ background-color:rgb(237, 237, 237);
+ padding:15px;
+ border-radius: 5px;
+ cursor: pointer;
+
+}
+.consi{
+    color: rgb(5, 71, 82);
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 20px;
+    padding-top:10px; 
+}
+.ti{
+    margin-top:100px;
+}
+
+/*----------------------------------------------------------------
+page lien , qr-code
+*/
+
+.tib{
+color:#fff;
+background-color:#005C97;
+border-radius:30px;
+font-size: 16px;
+font-weight: 600;
+line-height: 20px;
+a{
+    text-decoration: none!important;
+}
+
+}
+.akablink{
+ border-radius:5px;  
+ background-color:#FEF0E9;
+
+}
+.roo{
+    border:3px solid rgb(237, 237,237);
+}
+/* reunion*/
+
+.mount{
+    font-size:1.8rem;
+    border-radius: 10px;
+    color: rgb(5, 71, 82);
+    font-weight: bold;
+
+}
+.unit{
+    font-size:1.3rem;
+    color: rgb(5, 71, 82);
+}
+
+
+.des{
+    border: 3px solid rgb(237, 237, 237); 
+    color: rgb(5, 71, 82);
+    margin-top:5px;
+    margin-bottom:5px;
+    border-radius: 10px;
+
+}
+.name{
+    font-size:1.5rem;
+    font-weight: bold;
+}
+
+.shopname {
+   font-size:1.1rem;
+}
+.des h2{
+    font-size:1.2rem;
+    font-weight: bold;
+}
+.des p{
+    color:#000;
+}
+
+.des ul li{
+    color:#000;
+}
+.bcg{
+
+    background: url('/images/bcg.png') repeat;
+ 
+  
+}
+.bg-w{
+   background-color: #fff; 
+}
+
+.pres{
+    color: rgb(5, 71, 82);
+    font-size: 18px;
+    font-weight: 600; 
+}
+
+
+/* responsve */
+
+@media all and (max-width: 520px) {
+    .part1, .part1a,.part1b{
+        padding-top:2px;
+        background-size: 100% auto;  
+    }
+    .part2{
+        height:60%;
+    }
+
+    .mess{
+        font-size:1rem;    
+    }
+    .cond{
+        font-size:0.7rem; 
+    }
+    h1{
+        font-size:1.6rem;
+    }
+    .form-check{
+        font-size:1rem;
+        
+    }
+    .ico{
+        height:30px;
+    }
+    .form-check-p label{
+        font-size:0.7rem;
+    }
+    .point{
+        font-size: 0.6rem!important;
+           
+    }
+   
+
+    iframe{
+        height:215px;
+        width:360px;
+    }
+    .ti{
+        margin-top:10px;
+    }
+  }
